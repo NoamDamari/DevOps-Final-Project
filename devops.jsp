@@ -55,7 +55,9 @@
         <p>This project demonstrates our implementation of DevOps practices and tools.</p>
     </header>
 
-
+    <% 
+    String failure = new()FAILURE
+    %>
 
     <div class="container">
         <section id="about">
